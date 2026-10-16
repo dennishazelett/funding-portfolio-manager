@@ -1,0 +1,7 @@
+.DS_Store
+*.swp
+*.tmp
+skill.zip
+dist/
+.Rhistory
+.Rproj.user/
